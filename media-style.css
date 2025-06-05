@@ -1,0 +1,75 @@
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar {
+        padding: 1rem 0;
+    }
+    .logo {
+        font-size: 1.1rem;
+        margin-left: 20px;
+    }
+    .nav-links a {
+        font-size: 0.75rem;
+        margin-left: 15px;
+    }
+    .hero-content h5 {
+        font-size: 2rem;
+    }
+    .hero-content h2 {
+        font-size: 1.5rem;
+    }
+    .social-icons a {
+        width: 32px;
+        height: 32px;
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar {
+        padding: 1.25rem 0;
+    }
+    .logo {
+        font-size: 1.25rem;
+        margin-left: 25px;
+    }
+    .nav-links a {
+        font-size: 0.85rem;
+        margin-left: 18px;
+    }
+    .hero-content h5 {
+        font-size: 2.5rem;
+    }
+    .hero-content h2 {
+        font-size: 1.75rem;
+    }
+    .social-icons a {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        padding: 1.5rem 0;
+    }
+    .logo {
+        font-size: 1.5rem;
+        margin-left: 30px;
+    }
+    .nav-links a {
+        font-size: 1rem;
+        margin-left: 20px;
+    }
+    .hero-content h5 {
+        font-size: 3rem;
+    }
+    .hero-content h2 {
+        font-size: 2rem;
+    }
+    .social-icons a {
+        width: 40px;
+        height: 40px;
+        font-size: 22px;
+    }
+}
